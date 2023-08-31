@@ -1,0 +1,19 @@
+body{
+
+    background-color: #AB8754;
+
+}
+
+div{
+    text-align: left; color: black;
+    height: 900px; width: 900px;
+    padding: 5%; margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white; border: 10px solid black;
+}
+
+button{
+
+    background-color: white;
+    margin: 2% 0px 0px 0px
+}
